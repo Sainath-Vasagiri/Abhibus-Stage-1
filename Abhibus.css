@@ -1,0 +1,160 @@
+#container{
+    border: 2px solid black;
+    background-color: #efefef;
+}
+#heading{
+    padding-left: 60px;
+}
+body{
+    margin: auto;
+}
+#Search{
+    border: 2px solid black;
+    height: 400px;
+    background-image: url(bus.jpg)
+    
+}
+.CenterHeading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.nav{
+    overflow: hidden;
+
+    margin-top: 8%;
+    margin-left: 30px;
+}
+.nav input[type=text] {
+    float: left;
+    padding: 10px;
+
+    margin-right: 5px;
+    margin-left: 3px;
+    font-size: 17px;
+  }
+#secondContainer{
+    border: 2px solid black;
+    height: 350px;
+    width: min-content;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#box{
+    border: 2px solid black;
+    display: table-cell;
+}
+#slideButton{
+    height: 40px;
+    width: 2%;
+    vertical-align: middle;
+    border-style: none;
+}
+#thirdContainer{
+    border: 2px solid black;
+    height: 300px;
+    width: 178%;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#firstbox{
+    border: 2px solid black;
+    display: table-cell;
+}
+#secondbox{
+    border: 2px solid black;
+    display: table-cell;
+    margin-left: 2%;
+}
+.bannersBox{
+    display: -webkit-box;
+}
+#bannerOne{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -36px -27px;
+}
+#bannerTwo{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -238px -27px
+}
+#bannerThree{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -438px -27px;
+}
+#bannerFour{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -38px -168px;
+}
+#bannerFive{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -846px -27px;
+}
+#bannerSix{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -640px -27px
+}
+#bannerSeven{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -238px -170px;
+}
+#bannerEight{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -441px -170px;
+}
+#bannerNine{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -639px -170px;
+}
+#bannerTen{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -842px -170px;
+}
+#bannerEleven{
+    border: 2px solid black;
+    height: 106px;
+    width: 106px;
+    background: url(all-rtc-banner-others.png) no-repeat;
+    margin: auto;
+    background-position: -1032px -27px;
+}
